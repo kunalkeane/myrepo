@@ -1,15 +1,2 @@
 This is test file.
-M2
-M3
-F1
-M4
-M5
-M6
-F2
-M7
-M8
-F3
-F4
-F5
-F6
-F7
+M1
