@@ -2,3 +2,4 @@ This is test file.
 M2
 M3
 F1
+M4
