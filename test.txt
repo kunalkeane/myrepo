@@ -1,12 +1,1 @@
-This is test file.
-M1
-M2
-M3
 F1
-M4
-M5
-F2
-F3
-M6
-m7
-f4
